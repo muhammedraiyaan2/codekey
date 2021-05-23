@@ -1,0 +1,820 @@
+/*this is style the fonts*/
+h1{
+    font-style: italic;
+}
+h2{
+    font-style: italic;
+}
+h3{
+    font-style: italic;
+}
+h4{
+    font-style: italic;
+}
+h5{
+    font-style: italic;
+}
+h6{
+    font-style: italic;
+}
+p{
+    font-style: italic;
+}
+/*this used to color the hyperlink*/
+a{
+    color:rgba(0, 81, 255, 0.835);
+}
+/*this is full width container class*/
+
+.width-large{
+    width: 100%;
+
+    height: 30%;
+}
+/*this is fixed width container class*/
+.width-small{
+    width: 85%;
+    margin: auto;
+}
+/*this is container class*/
+.container-bgblue{
+ background-color: blue;
+
+}
+.container-bgred{
+    background-color:red;
+
+}
+.container-bggreen{
+    background-color: green;
+
+}
+.container-bgpink{
+    background-color: pink;
+
+}
+.container-bggrey{
+    background-color: grey;
+
+}
+.container-bgpurple{
+    background-color: purple;
+
+}
+.container-bgblack{
+    background-color:black;
+
+}
+.container-bgyellow{
+    background-color: rgb(251, 255, 0);
+
+}
+.container-bglightblue{
+    background-color: lightskyblue;
+
+}
+.container-bglightred{
+    background-color: rgb(255, 53, 53);
+
+}
+.container-bglightgreen{
+    background-color: lightgreen;
+
+}
+.container-bglightyellow{
+    background-color: rgb(248, 245, 71,), green,blue;
+
+}
+.container-bgorange{
+    background-color: orange;
+
+}
+.container-bglightorange{
+    background-color:rgb(255, 180, 41);
+
+}
+.container-bglightblack{
+    background-color:rgb(2, 2, 2, 0.527);
+
+}
+.container-bglightpink{
+    background-color:lightpink;
+
+}
+.container-bglightpurple{
+    background-color:rgb(206, 0, 206);
+
+}
+.container-bglightgrey{
+    background-color:rgb(148, 148, 148);
+
+}
+/*this is border*/
+.border{
+    border: 2px solid black;
+}
+/*this is background colors*/
+.bgblue{
+    background-color:blue
+}
+.bgred{
+  background:red;
+}
+.bggreen{
+    background-color:green;
+}
+.bgyellow{
+    background-color:rgb(251, 255, 0);
+}
+.bgwhite{
+    background-color: white;
+}
+.bgpink{
+    background-color:pink;
+}
+.bgpurple{
+    background-color:purple;
+}
+.bgorange{
+    background-color:orange;
+}
+.bggrey{
+    background-color:grey;
+}
+.bglightblue{
+    background-color:lightskyblue;
+}
+.bglightred{
+    background-color:rgb(255, 53, 53);
+}
+.bglightgreen{
+    background-color:lightgreen;
+}
+.bglightyellow{
+    background-color:rgb(rgb(248, 245, 71), green, blue);
+}
+.bglightpink{
+    background-color:lightpink;
+}
+.bglightpurple{
+    background-color:rgb(206, 0, 206);
+}
+.bglightorange{
+    background-color:rgb(255, 180, 41);
+}
+.bglightgrey{
+    background-color:rgb(148, 148, 148);
+}
+/*this is used align the text center*/
+.text-center{
+  text-align: center;
+}
+/*this used to align the text to right*/
+.text-right{
+    text-align: right;
+}
+/*this is used to align the text in the left*/
+.text-left{
+    text-align: left;
+}
+/*this is used to align the text in the top*/
+.text-top{
+    text-align: start;
+}
+/*this is used to align the text in the bottom*/
+.text-bottom{
+    text-align: end;
+}
+/*this is text size*/
+.text-1{
+    font-size: 70;
+}
+.text-2{
+    font-size: 60;
+}
+
+.text-3{
+    font-size: 50;
+}
+
+.text-4{
+    font-size: 40;
+}
+
+.text-5{
+    font-size: 30;
+}
+/*this is text colors*/
+.textblue{
+    color:blue
+}
+.textred{
+    color:red
+}
+.textgreen{
+    color:green;
+}
+.textyellow{
+    color:rgb(251, 255, 0);
+}
+.textpink{
+    color:pink;
+}
+.textpurple{
+    color:purple;
+}
+.textorange{
+    color:orange;
+}
+
+.textgrey{
+    color:grey;
+}
+.textlightblue{
+    color:lightskyblue;
+}
+.textwhite{
+  color:white;
+}
+.textlightred{
+    color:rgb(255, 53, 53);
+}
+.textlightgreen{
+    color:lightgreen;
+}
+.textlightyellow{
+    color:rgb(rgb(248, 245, 71), green, blue);
+}
+.textlightpink{
+    color:lightpink;
+}
+.textlightpurple{
+    color:rgb(206, 0, 206);
+}
+.textlightorange{
+    color:rgb(255, 180, 41);
+}
+.textlightgrey{
+    color:rgb(148, 148, 148);
+}
+/*this is large level buttons*/
+.btn-large-bgblue{
+    background: blue;
+    border:2px solid blue;
+    text-align:  center;
+    font-size: 24px;
+    padding: 9px 32px;
+    border-radius: 5px;
+    color: white;
+}
+.btn-large-bggreen{
+    background: green;
+    border:2px solid green;
+    text-align:  center;
+    font-size: 24px;
+    padding: 9px 32px;
+    border-radius: 5px;
+     color: white;
+}
+.btn-large-bgred{
+    background: red;
+    border:2px solid red;
+    text-align:  center;
+    font-size: 24px;
+    padding: 9px 32px;
+    border-radius: 5px;
+     color: white;
+}
+.btn-large-bggrey{
+    background: grey;
+    border:2px solid grey;
+    text-align:  center;
+    font-size: 24px;
+    padding: 9px 32px;
+    border-radius: 5px;
+     color: white;
+}
+.btn-large-bgpink{
+    background: pink;
+    border:2px solid pink;
+    text-align:  center;
+    font-size: 24px;
+    padding: 9px 32px;
+    border-radius: 5px;
+     color: white;
+}
+.btn-large-bgpurple{
+    background: purple;
+    border:2px solid purple;
+    text-align:  center;
+    font-size: 24px;
+    padding: 9px 32px;
+    border-radius: 5px;
+     color: white;
+}
+.btn-large-bgorange{
+    background: orange;
+    border:2px solid orange;
+    text-align:  center;
+    font-size: 24px;
+    padding: 9px 32px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-large-bgblack{
+    background: black;
+    border:2px solid black;
+    text-align:  center;
+    font-size: 24px;
+    padding: 9px 32px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-large-bglightblue{
+    background: lightblue;
+    border:2px solid lightblue;
+    text-align:  center;
+    font-size: 24px;
+    padding: 9px 32px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-large-bgligthgreen{
+    background:lightgreen;
+    border:2px solid lightgreen;
+    text-align:  center;
+    font-size: 24px;
+    padding: 9px 32px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-large-bglightred{
+    background: lightcoral;
+    border:2px solid blue;
+    text-align:  center;
+    font-size: 24px;
+    padding: 9px 32px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-large-bglightpink{
+    background: lightpink;
+    border:2px solid lightpink;
+    text-align:  center;
+    font-size: 24px;
+    padding: 9px 32px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-large-bglightpurple{
+    background: violet;
+    border:2px solid violet;
+    text-align:  center;
+    font-size: 24px;
+    padding: 9px 32px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-large-bgligthgrey{
+    background: lightgrey;
+    border:2px solid lightgrey;
+    text-align:  center;
+    font-size: 24px;
+    padding: 9px 32px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-large-bglightorange{
+    background: rgb(255, 166, 0, 0.609);
+    border:2px solid rgb(255, 166, 0, 0.609);
+    text-align:  center;
+    font-size: 24px;
+    padding: 9px 32px;
+    border-radius: 5px;
+         color: white;
+}
+/*this is medium level buttons*/
+.btn-medium-bgblue{
+    background: blue;
+    border:2px solid blue;
+    text-align:  center;
+    font-size: 18px;
+    padding: 5px 20px;
+         color: white;
+    border-radius: 5px;
+}
+.btn-medium-bggreen{
+    background: green;
+    border:2px solid green;
+    text-align:  center;
+    font-size: 18px;
+    padding: 5px 20px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-medium-bgred{
+    background: red;
+    border:2px solid red;
+    text-align:  center;
+    font-size: 18px;
+    padding: 5px 20px;
+         color: white;
+    border-radius: 5px;
+}
+.btn-medium-bgpink{
+    background:pink;
+    border:2px solid pink;
+    text-align:  center;
+    font-size: 18px;
+    padding: 5px 20px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-medium-bgpurple{
+    background: purple;
+    border:2px solid purple;
+    text-align:  center;
+    font-size: 18px;
+    padding: 5px 20px;
+         color: white;
+    border-radius: 5px;
+}
+.btn-medium-bggrey{
+    background: grey;
+    border:2px solid grey;
+    text-align:  center;
+    font-size: 18px;
+         color: white;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+.btn-medium-bgorange{
+    background: orange;
+    border:2px solid orange;
+    text-align:  center;
+    font-size: 18px;
+    padding: 5px 20px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-medium-bgblack{
+    background: black;
+    border:2px solid black;
+    text-align:  center;
+    font-size: 18px;
+    padding: 5px 20px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-medium-bglightblue{
+    background: lightblue;
+    border:2px solid lightblue;
+    text-align:  center;
+    font-size: 18px;
+    padding: 5px 20px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-medium-bglightgreen{
+    background: lightgreen;
+    border:2px solid lightgreen;
+    text-align:  center;
+    font-size: 18px;
+    padding: 5px 20px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-medium-bglightred{
+    background: lightcoral;
+    border:2px solid lightcoral;
+    text-align:  center;
+    font-size: 18px;
+    padding: 5px 20px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-medium-bglightpink{
+    background: lightpink;
+    border:2px solid lightpink;
+    text-align:  center;
+    font-size: 18px;
+    padding: 5px 20px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-medium-bglightpurple{
+    background: violet;
+    border:2px solid violet;
+    text-align:  center;
+    font-size: 18px;
+    padding: 5px 20px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-medium-bglightorange{
+    background: rgb(255, 166, 0, 0.596);
+    border:2px solid rgb(255, 166, 0, 0.596);
+    text-align:  center;
+    font-size: 18px;
+    padding: 5px 20px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-medium-bglightgrey{
+    background: lightgrey;
+    border:2px solid lightgrey;
+    text-align:  center;
+    font-size: 18px;
+    padding: 5px 20px;
+    border-radius: 5px;
+         color: white;
+}
+/*this is a small level buttons*/
+.btn-small-bgblue{
+    background: blue;
+    border:2px solid blue;
+    text-align:  center;
+    font-size: 13px;
+        padding: 3px 10px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-small-bggreen{
+    background: green;
+    border:2px solid green;
+    text-align:  center;
+    font-size: 13px;
+        padding: 3px 10px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-small-bgred{
+    background: red;
+    border:2px solid red;
+    text-align:  center;
+    font-size: 13px;
+        padding: 3px 10px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-small-bgpink{
+    background: pink;
+    border:2px solid pink;
+    text-align:  center;
+    font-size: 13px;
+        padding: 3px 10px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-small-bgpurple{
+    background: purple;
+    border:2px solid purple;
+    text-align:  center;
+    font-size: 13px;
+        padding: 3px 10px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-small-bgorange{
+    background: orange;
+    border:2px solid orange;
+    text-align:  center;
+    font-size: 13px;
+        padding: 3px 10px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-small-bgblack{
+    background: black;
+    border:2px solid black;
+    text-align:  center;
+    font-size: 13px;
+        padding: 3px 10px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-small-bggrey{
+    background: grey;
+    border:2px solid grey;
+    text-align:  center;
+    font-size: 13px;
+        padding: 3px 10px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-small-bglightblue{
+    background: lightblue;
+    border:2px solid lightblue;
+    text-align:  center;
+    font-size: 13px;
+        padding: 3px 10px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-small-bglightgreen{
+    background: lightgreen;
+    border:2px solid lightgreen;
+    text-align:  center;
+    font-size: 13px;
+        padding: 3px 10px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-small-bglightred{
+    background: lightcoral;
+    border:2px solid lightcoral;
+    text-align:  center;
+    font-size: 13px;
+        padding: 3px 10px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-small-bglightpink{
+    background: lightpink;
+    border:2px solid lightpink;
+    text-align:  center;
+    font-size: 13px;
+        padding: 3px 10px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-small-bglightpurple{
+    background: violet;
+    border:2px solid violet;
+    text-align:  center;
+    font-size: 13px;
+        padding: 3px 10px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-small-bglightgrey{
+    background: lightgrey;
+    border:2px solid lightgrey;
+    text-align:  center;
+    font-size: 13px;
+        padding: 3px 10px;
+    border-radius: 5px;
+         color: white;
+}
+.btn-small-bglightorange{
+    background:rgb(255, 166, 0, 0.555);
+    border:2px solid rgb(255, 166, 0, 0.555);
+    text-align:  center;
+    font-size: 13px;
+        padding: 3px 10px;
+    border-radius: 5px;
+         color: white;
+}
+/*this hover button*/
+.btn-bg-white-blue-large{
+  background-color: white; 
+  color: #008CBA; 
+  border: 2px solid #008CBA;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.btn-bg-white-blue-large:hover{
+    background-color: #008CBA;
+  color: white;
+}
+.btn-bg-white-green-large{
+  background-color: white; 
+  color: #4CAF50; 
+  border: 2px solid #4CAF50;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.btn-bg-white-green-large:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+.btn-bg-white-red-large{
+  background-color: white; 
+  color: #f44336; 
+  border: 2px solid #f44336;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.btn-bg-white-red-large:hover {
+    background-color: #f44336;
+    color: white;
+}
+.btn-bg-white-orange-large{
+  background-color: white; 
+  color: orange; 
+  border: 2px solid orange;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.btn-bg-white-orange-large:hover {
+    background-color: orange;
+    color: white;
+}
+
+.btn-bg-white-purple-large{
+  background-color: white; 
+  color: purple; 
+  border: 2px solid purple;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.btn-bg-white-purple-large:hover {
+    background-color: purple;
+    color: white;
+}
+.btn-bg-white-pink-large{
+  background-color: white; 
+  color: pink; 
+  border: 2px solid pink;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.btn-bg-white-pink-large:hover {
+    background-color: pink;
+    color: white;
+}
+.btn-bg-white-grey-large{
+  background-color: white; 
+  color: grey; 
+  border: 2px solid grey;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.btn-bg-white-grey-large:hover {
+    background-color: grey;
+    color: white;
+}
+.btn-bg-white-black-large{
+  background-color: white; 
+  color: black; 
+  border: 2px solid black;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.btn-bg-white-black-large:hover {
+    background-color: black;
+    color: white;
+}
+input{
+    width: 30%;
+
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+.card {
+  background-color: lightcoral;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 30%;
+}
+.full-large-width{
+ width: 100%;
+}
