@@ -134,13 +134,22 @@ The card title is very important compnent for a card there are two types of titl
 
 For text title
 ```bash
-  <div class="card card-align-5 border-blue">
+  <div class="card card-align-1 border-blue">
    <h1 class="card-title-text">Heading</h1>
   </div>
 ```
 For image title
 ```bash
-  <div class="card card-align-5 border-blue">
+  <div class="card card-align-1 border-blue">
+   <img src="dummy.jpg" alt="dummy image" class="card-title-image">
+  </div>
+```
+For multiply card
+
+Note:
+In the code the align is 3 you can change to your option
+```bash
+  <div class="card card-align-3 border-blue">
    <img src="dummy.jpg" alt="dummy image" class="card-title-image">
   </div>
 ```
