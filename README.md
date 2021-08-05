@@ -17,6 +17,7 @@ Paste this code in the head tag
 - Navbar
 - Navbar sticky
 - Dropdown
+- Footer
 ### Text Color
 ---
 The text color will change the text color that you wanted to add in your website, In the given below code I add text red color what you want you can add that color name
@@ -151,8 +152,55 @@ In the code the align is 3 you can change to your option
 ```bash
   <div class="card card-align-3 border-blue">
    <img src="dummy.jpg" alt="dummy image" class="card-title-image">
+   <h1 class="card-title-text">Heading!</h1>
   </div>
 ```
+### Navbar
+Navbar is a very important part of a website for heading and tell us about that where is home contact and about etc.
 
-
-
+navcom is a class for title of the navbar or the brand or the company
+```bash
+<nav class="navbar bg-black">
+<li class="navcom text-white">Title!</li>
+<ul>
+<li class="text-white"><a href="#home">Home</a></li>
+<li class="text-white"><a href="#services">Services</a></li>
+<li class="text-white"><a href="#about us">About us</a></li>
+<li class="text-white"><a href="#contact us">Contact Us</a></li>
+</ul>
+</nav>
+```
+### Navbar Sticky
+Navbar sticky is same like navbar but it's stick on the top of the website when you scroll it will not go it will stick in the top.
+```bash 
+<nav class="navbar-stick bg-black">
+<li class="navcom text-white">Title!</li>
+<ul>
+<li class="text-white"><a href="#home">Home</a></li>
+<li class="text-white"><a href="#services">Services</a></li>
+<li class="text-white"><a href="#about us">About us</a></li>
+<li class="text-white"><a href="#contact us">Contact Us</a></li>
+</ul>
+</nav>
+```
+### Dropdown
+Dropdown is a set of value to select one of the value.
+```bash
+<select class="dropdown text-white border-lightpurple">
+<option>Selec the car</option>
+<option>volvo van</option>
+<option>benz</option>
+<option>bmw</option>
+<option>farreri</option>
+<option>rolls races</option>
+</select>
+```
+### Footer 
+Footer is used for contact or coprights or terms and policy etc.
+```bash
+<div class="footer bg-black">
+<center>
+<h3>&copy Copright@codekey</h3>
+</center>
+</div>
+```
