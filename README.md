@@ -106,4 +106,20 @@ Circle button is a button shape circle with any background color
 ```bash
 <button class="btn-circle-bg-orange btn-small">
 ```
+### Input
+Input tag or input in the website is used for a form or a email and address and phone number etc, input is a main in a website to attract the user, code key is providing you a input style there are three types large, medium and small input
+
+For large input
+```bash
+<input type="text" class="input-large">
+```
+For medium input
+```bash
+<input type="text" class="input-medium">
+```
+For small input
+```bash
+<input type="text" class="input-small">
+```
+
 
