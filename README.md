@@ -81,14 +81,14 @@ For large buttons
 For medium buttons
 <button class="btn-medium">
 ```
-```bash
 For small buttons
+```bash
 <button class="btn-small">
 ```
 ### Circle transition button
 ---
 The circle transition button is 
-when hover the button it change to any color, first it will have a white background and when you hover it will change color what you want to change Note:first background white color you can't change the second color you can change
+when hover the button it change to any color, first it will have a white background and when you hover it will change color what you want to change Note: first background white color you can't change the second color you can change
 ```bash
 <button class="btn-circle-bg-white-blue btn-medium">
 ```
@@ -100,6 +100,6 @@ It's same like the circle transition button but this box in shape
 ### Circle Button
 Circle button is a button shape circle with any background color
 ```bash
-<button class="btn-circle-bg-orange">
+<button class="btn-circle-bg-orange btn-small">
 ```
 
