@@ -140,8 +140,7 @@ For text title
 ```
 For image title
 ```bash
-  <div class="card card-align-5 border
-  -blue">
+  <div class="card card-align-5 border-blue">
    <img src="dummy.jpg" alt="dummy image" class="card-title-image">
   </div>
 ```
