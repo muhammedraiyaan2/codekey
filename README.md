@@ -39,46 +39,50 @@ Border color it has background and the border for example you have created a but
 ### Container
 ---
 Container is a box like full width or fixed width and you can add a background to that and the height is cover the content
-```bash
+
 For full width container
+```bash
 <div class="container con-width-large bg-red>
 ```
-```bash
 For fixed width container
+```bash
 <div class="container con-width-small bg-red>
 ```
 ### Text size
 ---
 The text size is up to 1 to 5
 ```bash
-<h1 class="1">Heading!</h1>
+<h1 class="text-1">Heading!</h1>
 ```
 ### Button 
 ---
 Button are mustly used in a website with different designs, code key is providing a square button circle button and transition button
 ### Box button
 ---
-```bash
+Box button are normal button that you see in a website
+
 Large button
+```bash
 <button class="btn-large-bg-blue">
 ```
-```bash
 Medium button
+```bash
 <button class="btn-medium-bg-blue">
 ```
-```bash
 Small button
+```bash
 <button class="btn-small-bg-blue">
 ```
 ### Button size
 ---
 Button size is very important for a button and you can set the button size with code key
-```bash
+
 For large buttons
+```bash
 <button class="btn-large">
 ```
-```bash
 For medium buttons
+```bash
 <button class="btn-medium">
 ```
 For small buttons
