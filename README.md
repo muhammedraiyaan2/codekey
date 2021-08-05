@@ -121,5 +121,30 @@ For small input
 ```bash
 <input type="text" class="input-small">
 ```
+### Card
+Card is a box where you add some of the detail, the card is used for like profile and shoping in a ecommerce website
+### Card align
+Card align is very important for multiply card to set in a column, You must enter the card align, the card align is up to 1 to 5 totaly you can set it 5 cards in a column
+
+```bash
+  <div class="card card-align-5 border-blue"></div>
+```
+### Card title class
+The card title is very important compnent for a card there are two types of title one is text another one is image.
+
+For text title
+```bash
+  <div class="card card-align-5 border-blue">
+   <h1 class="card-title-text">Heading</h1>
+  </div>
+```
+For image title
+```bash
+  <div class="card card-align-5 border
+  -blue">
+   <img src="dummy.jpg" alt="dummy image" class="card-title-image">
+  </div>
+```
+
 
 
