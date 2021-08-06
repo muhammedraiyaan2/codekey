@@ -40,6 +40,7 @@ the background you can select, I written it red you select your option
 <div class="bg-red">
 <h1>Testing!
 </div>
+    
 ### Border Color
 ---
 Border color it has background and the border for example you have created a button and the button background is blue and the border of the button is unset and you want set what will you do you will add css but code key is provinding a border color 
