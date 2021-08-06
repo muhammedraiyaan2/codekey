@@ -26,7 +26,7 @@ The text color will change the text color that you wanted to add in your website
   <h1 class="text-red">Testing!</h1>
 ```
   <h1 class="text-red">Testing!</h1>
-
+  
 ### Background Color
 ---
 Background color what ever you want 
