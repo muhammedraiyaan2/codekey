@@ -49,6 +49,7 @@ Border color it has background and the border for example you have created a but
 <button class="border-blue">Button!</button>
 ```
 <button class="border-blue">Button!</button>
+    
 ### Container
 ---
 Container is a box like full width or fixed width and you can add a background to that and the height is cover the content
