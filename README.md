@@ -26,7 +26,7 @@ The text color will change the text color that you wanted to add in your website
   <h1 class="text-red">Testing!</h1>
 ```
   <h1 class="text-red">Testing!</h1>
-  
+
 ### Background Color
 ---
 Background color what ever you want 
@@ -40,7 +40,6 @@ the background you can select, I written it red you select your option
 <div class="bg-red">
 <h1>Testing!
 </div>
-    
 ### Border Color
 ---
 Border color it has background and the border for example you have created a button and the button background is blue and the border of the button is unset and you want set what will you do you will add css but code key is provinding a border color 
@@ -49,7 +48,6 @@ Border color it has background and the border for example you have created a but
 <button class="border-blue">Button!</button>
 ```
 <button class="border-blue">Button!</button>
-    
 ### Container
 ---
 Container is a box like full width or fixed width and you can add a background to that and the height is cover the content
@@ -111,6 +109,7 @@ Large button
 <button class="btn-large-bg-blue">Button large!</button>
 ```
 <button class="btn-large-bg-blue">Button large!</button>
+
 
 Medium button
 ```bash
