@@ -112,7 +112,6 @@ Large button
 ```
 <button class="btn-large-bg-blue">Button large!</button>
 
-
 Medium button
 ```bash
 <button class="btn-medium-bg-blue">Button medium!</button>
