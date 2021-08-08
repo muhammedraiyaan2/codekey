@@ -1408,7 +1408,7 @@ a{
 }
 .card:hover{
     transition: 0.4s;
-    box-shadow: 5px 8px;
+    box-shadow: 1px 1px 50px;
 }
 .card-title-image{
     width:100%;
