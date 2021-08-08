@@ -1499,7 +1499,6 @@ height: 8rem;
 }
     .navbar ul{
         font-size: 10px;
-        position: fixed;
         top: 80px;
         height: 5vh;
         width: 100vw;
@@ -1589,7 +1588,6 @@ color: white;
     }
         .navbar-stick ul{
             font-size: 10px;
-            position: fixed;
             top: 80px;
             height: 5vh;
             width: 100vw;
